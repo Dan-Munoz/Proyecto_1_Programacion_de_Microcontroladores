@@ -1,0 +1,221 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\Debug\Proyecto1_final.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Proyecto1_final.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Proyecto1_final.map</FILE>
+  <FILE>Proyecto1_final.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MULTIPLEXOR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>23</LINE></MULTIPLEXOR>
+  <DISP_VALUE><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>24</LINE></DISP_VALUE>
+  <UN_MIN><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>25</LINE></UN_MIN>
+  <DEC_MIN><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>26</LINE></DEC_MIN>
+  <UN_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>27</LINE></UN_HORA>
+  <DEC_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>28</LINE></DEC_HORA>
+  <UN_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>29</LINE></UN_DIA>
+  <DEC_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>30</LINE></DEC_DIA>
+  <UN_MES><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>31</LINE></UN_MES>
+  <DEC_MES><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>32</LINE></DEC_MES>
+  <TIEMPO><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>33</LINE></TIEMPO>
+  <ESTADO><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>34</LINE></ESTADO>
+  <MODE><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>36</LINE></MODE>
+  <CONTAR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>37</LINE></CONTAR>
+  <MULTIPLEXION><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>38</LINE></MULTIPLEXION>
+  <INCREMENTAR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>39</LINE></INCREMENTAR>
+  <DECREMENTAR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>40</LINE></DECREMENTAR>
+  <UN_MIN_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>41</LINE></UN_MIN_ALARMA>
+  <DEC_MIN_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>42</LINE></DEC_MIN_ALARMA>
+  <UN_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>43</LINE></UN_HORA_ALARMA>
+  <DEC_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>44</LINE></DEC_HORA_ALARMA>
+  <ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>45</LINE></ALARMA>
+  <START><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>71</LINE></START>
+  <PINB_ISR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1320</LINE></PINB_ISR>
+  <PINC_ISR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1345</LINE></PINC_ISR>
+  <TMR1_ISR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1402</LINE></TMR1_ISR>
+  <TMR0_ISR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1382</LINE></TMR0_ISR>
+  <table7seg><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>67</LINE></table7seg>
+  <INIT_TMR1><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1295</LINE></INIT_TMR1>
+  <INIT_TMR0><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1307</LINE></INIT_TMR0>
+  <MAIN_LOOP><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>155</LINE></MAIN_LOOP>
+  <VERIFY_MODE0><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>157</LINE></VERIFY_MODE0>
+  <VERIFY_MODE1><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>162</LINE></VERIFY_MODE1>
+  <MODE_0><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>228</LINE></MODE_0>
+  <VERIFY_MODE2><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>166</LINE></VERIFY_MODE2>
+  <MODE_1><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>456</LINE></MODE_1>
+  <VERIFY_MODE3><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>170</LINE></VERIFY_MODE3>
+  <MODE_2><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>464</LINE></MODE_2>
+  <VERIFY_MODE4><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>174</LINE></VERIFY_MODE4>
+  <MODE_3><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>536</LINE></MODE_3>
+  <VERIFY_MODE5><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>178</LINE></VERIFY_MODE5>
+  <MODE_4><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>629</LINE></MODE_4>
+  <VERIFY_MODE6><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>182</LINE></VERIFY_MODE6>
+  <MODE_5><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>738</LINE></MODE_5>
+  <VERIFY_MODE7><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>186</LINE></VERIFY_MODE7>
+  <MODE_6><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>938</LINE></MODE_6>
+  <MULTIPLEXAR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>191</LINE></MULTIPLEXAR>
+  <MODE_7><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1010</LINE></MODE_7>
+  <MULTIPLEXACION><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1105</LINE></MULTIPLEXACION>
+  <MOSTRAR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>194</LINE></MOSTRAR>
+  <MOSTRAR_MODO><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>216</LINE></MOSTRAR_MODO>
+  <NO_INCREMENTO><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>238</LINE></NO_INCREMENTO>
+  <CARGAR_VALORES><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>241</LINE></CARGAR_VALORES>
+  <EXIT_CONTAR_TIEMPO><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>417</LINE></EXIT_CONTAR_TIEMPO>
+  <SUMAR_DEC_MIN><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>256</LINE></SUMAR_DEC_MIN>
+  <GUARDAR_TMR1_ISR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>382</LINE></GUARDAR_TMR1_ISR>
+  <SUMAR_UN_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>262</LINE></SUMAR_UN_HORA>
+  <VERIFY_CAMBIO_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>273</LINE></VERIFY_CAMBIO_DIA>
+  <SUMAR_DEC_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>270</LINE></SUMAR_DEC_HORA>
+  <COMPARAR_DEC_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>278</LINE></COMPARAR_DEC_HORA>
+  <LIMPIAR_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>282</LINE></LIMPIAR_HORA>
+  <TRES_MESES_FINALES><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>290</LINE></TRES_MESES_FINALES>
+  <NUEVE_MESES_PRIMEROS><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>295</LINE></NUEVE_MESES_PRIMEROS>
+  <TREINTA_DIAS><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>345</LINE></TREINTA_DIAS>
+  <TREINTA_Y_UN_DIAS><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>326</LINE></TREINTA_Y_UN_DIAS>
+  <VEINTIOCHO_DIAS><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>307</LINE></VEINTIOCHO_DIAS>
+  <VERIFY_CAMBIO_MES3><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>316</LINE></VERIFY_CAMBIO_MES3>
+  <CAMBIO_MES><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>364</LINE></CAMBIO_MES>
+  <VERIFY_CAMBIO_MES2><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>335</LINE></VERIFY_CAMBIO_MES2>
+  <VERIFY_CAMBIO_MES1><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>354</LINE></VERIFY_CAMBIO_MES1>
+  <VERIFY_DICIEMBRE><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>372</LINE></VERIFY_DICIEMBRE>
+  <ALARMA_Y_MODO><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>393</LINE></ALARMA_Y_MODO>
+  <NO_BOTON1_MODE0><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>428</LINE></NO_BOTON1_MODE0>
+  <APAGAR_ALARMA_MODE0><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>445</LINE></APAGAR_ALARMA_MODE0>
+  <NO_BOTON2_MODE0><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>441</LINE></NO_BOTON2_MODE0>
+  <EXIT_MODE_0><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>449</LINE></EXIT_MODE_0>
+  <NO_INCREMENTAR_MIN><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>475</LINE></NO_INCREMENTAR_MIN>
+  <INCREMENTAR_MIN><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>493</LINE></INCREMENTAR_MIN>
+  <NO_DECREMENTAR_MIN><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>488</LINE></NO_DECREMENTAR_MIN>
+  <DECREMENTAR_MIN><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>512</LINE></DECREMENTAR_MIN>
+  <EXIT_MODE_2><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>530</LINE></EXIT_MODE_2>
+  <GUARDAR_INC_MIN><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>505</LINE></GUARDAR_INC_MIN>
+  <GUARDAR_DEC_MIN><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>524</LINE></GUARDAR_DEC_MIN>
+  <NO_INCREMENTAR_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>547</LINE></NO_INCREMENTAR_HORA>
+  <INCREMENTAR_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>565</LINE></INCREMENTAR_HORA>
+  <NO_DECREMENTAR_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>560</LINE></NO_DECREMENTAR_HORA>
+  <DECREMENTAR_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>598</LINE></DECREMENTAR_HORA>
+  <EXIT_MODE_3><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>622</LINE></EXIT_MODE_3>
+  <VERIFY_24HRS><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>579</LINE></VERIFY_24HRS>
+  <INCREMENTAR_DEC_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>575</LINE></INCREMENTAR_DEC_HORA>
+  <GUARDAR_INC_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>592</LINE></GUARDAR_INC_HORA>
+  <COMPARAR_DEC_HORA_INC><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>583</LINE></COMPARAR_DEC_HORA_INC>
+  <LIMPIAR_HORA_INC><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>588</LINE></LIMPIAR_HORA_INC>
+  <DECREMENTAR_DEC_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>606</LINE></DECREMENTAR_DEC_HORA>
+  <GUARDAR_DEC_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>617</LINE></GUARDAR_DEC_HORA>
+  <LIMPIAR_HORA_DEC><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>613</LINE></LIMPIAR_HORA_DEC>
+  <NO_INCREMENTAR_MES><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>640</LINE></NO_INCREMENTAR_MES>
+  <INCREMENTAR_MES><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>658</LINE></INCREMENTAR_MES>
+  <NO_DECREMENTAR_MES><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>653</LINE></NO_DECREMENTAR_MES>
+  <DECREMENTAR_MES><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>696</LINE></DECREMENTAR_MES>
+  <EXIT_MODE_4><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>732</LINE></EXIT_MODE_4>
+  <VERIFY_MES12><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>676</LINE></VERIFY_MES12>
+  <INCREMENTAR_DEC_MES><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>672</LINE></INCREMENTAR_DEC_MES>
+  <GUARDAR_INC_MES><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>687</LINE></GUARDAR_INC_MES>
+  <COMPARAR_DEC_MES_INC><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>680</LINE></COMPARAR_DEC_MES_INC>
+  <LIMPIAR_MES_INC><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>684</LINE></LIMPIAR_MES_INC>
+  <NORMAL_DEC_CHECK><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>716</LINE></NORMAL_DEC_CHECK>
+  <GUARDAR_DEC_MES><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>724</LINE></GUARDAR_DEC_MES>
+  <NO_INCREMENTAR_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>749</LINE></NO_INCREMENTAR_DIA>
+  <INCREMENTAR_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>767</LINE></INCREMENTAR_DIA>
+  <NO_DECREMENTAR_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>762</LINE></NO_DECREMENTAR_DIA>
+  <DECREMENTAR_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>863</LINE></DECREMENTAR_DIA>
+  <EXIT_MODE_5><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>932</LINE></EXIT_MODE_5>
+  <TRES_MESES_FINALES_INC_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>780</LINE></TRES_MESES_FINALES_INC_DIA>
+  <NUEVE_MESES_PRIMEROS_INC_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>786</LINE></NUEVE_MESES_PRIMEROS_INC_DIA>
+  <TREINTA_DIAS_INC_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>836</LINE></TREINTA_DIAS_INC_DIA>
+  <TREINTA_Y_UN_DIAS_INC_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>817</LINE></TREINTA_Y_UN_DIAS_INC_DIA>
+  <VEINTIOCHO_DIAS_INC_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>798</LINE></VEINTIOCHO_DIAS_INC_DIA>
+  <VERIFY_CAMBIO_MES3_INC_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>807</LINE></VERIFY_CAMBIO_MES3_INC_DIA>
+  <GUARDAR_INC_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>854</LINE></GUARDAR_INC_DIA>
+  <VERIFY_CAMBIO_MES2_INC_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>826</LINE></VERIFY_CAMBIO_MES2_INC_DIA>
+  <VERIFY_CAMBIO_MES1_INC_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>845</LINE></VERIFY_CAMBIO_MES1_INC_DIA>
+  <NORMAL_DEC_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>917</LINE></NORMAL_DEC_DIA>
+  <TRES_MESES_FINALES_DEC_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>881</LINE></TRES_MESES_FINALES_DEC_DIA>
+  <NUEVE_MESES_PRIMEROS_DEC_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>887</LINE></NUEVE_MESES_PRIMEROS_DEC_DIA>
+  <CARGAR_30><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>905</LINE></CARGAR_30>
+  <CARGAR_31><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>911</LINE></CARGAR_31>
+  <CARGAR_28><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>899</LINE></CARGAR_28>
+  <GUARDAR_DEC_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>924</LINE></GUARDAR_DEC_DIA>
+  <NO_INCREMENTAR_MIN_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>949</LINE></NO_INCREMENTAR_MIN_ALARMA>
+  <INCREMENTAR_MIN_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>967</LINE></INCREMENTAR_MIN_ALARMA>
+  <NO_DECREMENTAR_MIN_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>962</LINE></NO_DECREMENTAR_MIN_ALARMA>
+  <DECREMENTAR_MIN_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>986</LINE></DECREMENTAR_MIN_ALARMA>
+  <EXIT_MODE_6><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1004</LINE></EXIT_MODE_6>
+  <GUARDAR_INC_MIN_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>980</LINE></GUARDAR_INC_MIN_ALARMA>
+  <GUARDAR_DEC_MIN_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1000</LINE></GUARDAR_DEC_MIN_ALARMA>
+  <NO_INCREMENTAR_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1021</LINE></NO_INCREMENTAR_HORA_ALARMA>
+  <INCREMENTAR_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1039</LINE></INCREMENTAR_HORA_ALARMA>
+  <NO_DECREMENTAR_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1034</LINE></NO_DECREMENTAR_HORA_ALARMA>
+  <DECREMENTAR_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1074</LINE></DECREMENTAR_HORA_ALARMA>
+  <EXIT_MODE_7><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1099</LINE></EXIT_MODE_7>
+  <VERIFY_24HRS_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1054</LINE></VERIFY_24HRS_ALARMA>
+  <INCREMENTAR_DEC_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1049</LINE></INCREMENTAR_DEC_HORA_ALARMA>
+  <GUARDAR_INC_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1068</LINE></GUARDAR_INC_HORA_ALARMA>
+  <COMPARAR_DEC_HORA_INC_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1058</LINE></COMPARAR_DEC_HORA_INC_ALARMA>
+  <LIMPIAR_HORA_INC_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1063</LINE></LIMPIAR_HORA_INC_ALARMA>
+  <DECREMENTAR_DEC_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1082</LINE></DECREMENTAR_DEC_HORA_ALARMA>
+  <GUARDAR_DEC_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1094</LINE></GUARDAR_DEC_HORA_ALARMA>
+  <LIMPIAR_HORA_DEC_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1089</LINE></LIMPIAR_HORA_DEC_ALARMA>
+  <NO_MULTIPLEXAR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1117</LINE></NO_MULTIPLEXAR>
+  <MULTIPLEXAR_VALORES><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1122</LINE></MULTIPLEXAR_VALORES>
+  <EXIT_MULTIPLEXACION><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1288</LINE></EXIT_MULTIPLEXACION>
+  <MULTIPLEXAR_MODE0><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1124</LINE></MULTIPLEXAR_MODE0>
+  <MULTIPLEXAR_MODE1><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1129</LINE></MULTIPLEXAR_MODE1>
+  <VALORES_MODE_0><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1161</LINE></VALORES_MODE_0>
+  <MULTIPLEXAR_MODE2><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1133</LINE></MULTIPLEXAR_MODE2>
+  <VALORES_MODE_1><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1165</LINE></VALORES_MODE_1>
+  <MULTIPLEXAR_MODE3><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1137</LINE></MULTIPLEXAR_MODE3>
+  <VALORES_MODE_2><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1169</LINE></VALORES_MODE_2>
+  <MULTIPLEXAR_MODE4><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1141</LINE></MULTIPLEXAR_MODE4>
+  <VALORES_MODE_3><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1173</LINE></VALORES_MODE_3>
+  <MULTIPLEXAR_MODE5><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1145</LINE></MULTIPLEXAR_MODE5>
+  <VALORES_MODE_4><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1177</LINE></VALORES_MODE_4>
+  <MULTIPLEXAR_MODE6><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1149</LINE></MULTIPLEXAR_MODE6>
+  <VALORES_MODE_5><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1181</LINE></VALORES_MODE_5>
+  <MULTIPLEXAR_MODE7><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1153</LINE></MULTIPLEXAR_MODE7>
+  <VALORES_MODE_6><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1185</LINE></VALORES_MODE_6>
+  <SALIDA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1157</LINE></SALIDA>
+  <VALORES_MODE_7><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1189</LINE></VALORES_MODE_7>
+  <MOSTRAR_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1193</LINE></MOSTRAR_HORA>
+  <MOSTRAR_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1225</LINE></MOSTRAR_DIA>
+  <MOSTRAR_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1257</LINE></MOSTRAR_HORA_ALARMA>
+  <CAMBIO_C1_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1207</LINE></CAMBIO_C1_HORA>
+  <CAMBIO_C2_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1211</LINE></CAMBIO_C2_HORA>
+  <CAMBIO_C3_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1215</LINE></CAMBIO_C3_HORA>
+  <CAMBIO_C0_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1203</LINE></CAMBIO_C0_HORA>
+  <GUARDAR_VALORES_HORA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1219</LINE></GUARDAR_VALORES_HORA>
+  <CAMBIO_C1_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1239</LINE></CAMBIO_C1_DIA>
+  <CAMBIO_C2_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1243</LINE></CAMBIO_C2_DIA>
+  <CAMBIO_C3_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1247</LINE></CAMBIO_C3_DIA>
+  <CAMBIO_C0_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1235</LINE></CAMBIO_C0_DIA>
+  <GUARDAR_VALORES_DIA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1251</LINE></GUARDAR_VALORES_DIA>
+  <CAMBIO_C1_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1271</LINE></CAMBIO_C1_HORA_ALARMA>
+  <CAMBIO_C2_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1275</LINE></CAMBIO_C2_HORA_ALARMA>
+  <CAMBIO_C3_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1279</LINE></CAMBIO_C3_HORA_ALARMA>
+  <CAMBIO_C0_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1267</LINE></CAMBIO_C0_HORA_ALARMA>
+  <GUARDAR_VALORES_HORA_ALARMA><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1283</LINE></GUARDAR_VALORES_HORA_ALARMA>
+  <AUMENTAR_MODE><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1329</LINE></AUMENTAR_MODE>
+  <EXIT_PINB_ISR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1338</LINE></EXIT_PINB_ISR>
+  <GUARDAR_MODE><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1335</LINE></GUARDAR_MODE>
+  <CHEQUEO><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1363</LINE></CHEQUEO>
+  <GUARDAR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1375</LINE></GUARDAR>
+  <EXIT_TMR0_ISR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1394</LINE></EXIT_TMR0_ISR>
+  <EXIT_TMR1_ISR><FILE>C:\Users\User\Documents\GitHub\PROGRA_DE _MICROS\PROGRA_DE_MICROS\Proyecto1_final\Proyecto1_final\main.asm</FILE><LINE>1425</LINE></EXIT_TMR1_ISR>
+ </LABELS>
+</ASSEMBLER_INFO>
